@@ -10,12 +10,14 @@ bash: bundler: command not found
 * Al comprobar que no tenemos instalado bundler lo haremos con estos comandos:
   - MacBook-Pro-de-Debora:~DeboraPro$ sudo gem install bundler
 
-
+![Alt text](imagenes/bundler.png)
 
 + Ahora pasaremos a instalar las gemas sinatra y twitter:
   - MacBook-Pro-de-Debora:~DeboraPro$ sudo gem install sinatra
+![Alt text](imagenes/sinatra.png)
 
   - MacBook-Pro-de-Debora:~DeboraPro$ sudo gem install twitter
+![Alt text](imagenes/twitter.png)
 
 + Iremos a github:
   - Crearemos un nuevo repositorio llamado: [SYTW](https://github.com/alu0100537154/SYTW.git)
@@ -26,4 +28,3 @@ bash: bundler: command not found
   - Voy ajustes del repositorio.
   - Selecciono generar pagina automaticamente.
   - Se me habrá creado ya una nueva rama.
-
