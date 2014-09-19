@@ -13,12 +13,25 @@ bash: bundler: command not found
 
 ![Alt text](imagenes/bundler.png)
 
+
+
 + Ahora pasaremos a instalar las gemas sinatra y twitter:
 
   - sudo gem install sinatra
+
+
+
+
 ![Alt text](imagenes/sinatra.png)
 
+
+
+
   - sudo gem install twitter
+
+
+
+
 ![Alt text](imagenes/twitter.png)
 
 + Iremos a github:
